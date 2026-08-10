@@ -1,6 +1,4 @@
 # VoiceCutter
-Davinci
-# VoiceCutter
 
 VoiceCutter is a DaVinci Resolve script that automatically separates spoken sections from silent / non-voice sections while keeping the original timing intact.
 
